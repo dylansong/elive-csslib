@@ -1,0 +1,14 @@
+{
+  "name": "elive-csslib",
+  "version": "0.1.0",
+  "description": "color variables and scss mixin",
+  "main": "elive-csslib.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scss"
+  ],
+  "author": "dylansong",
+  "license": "ISC"
+}
